@@ -48,7 +48,7 @@
 1. Expose the application to the wider Internet using [ngrok](https://ngrok.com/).
 
    ```bash
-   $ ngrok http 3000
+   $ ngrok http 4000
    ```
 
    Once you have started ngrok, update your App voice URL
